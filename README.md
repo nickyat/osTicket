@@ -1,4 +1,4 @@
-FlipZip addons
+Fork for FlipZip addons
 
 osTicket
 ========
@@ -39,7 +39,7 @@ install the software and track updates is to clone the public repository.
 Create a folder on you web server (using whatever method makes sense for
 you) and cd into it. Then clone the repository (the folder must be empty!):
 
-    git clone https://github.com/osTicket/osTicket
+    git clone https://github.com/nickyat/osTicket.git
 
 And deploy the code into somewhere in your server's www root folder, for
 instance
