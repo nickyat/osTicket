@@ -1,5 +1,7 @@
 Форк osTicket для ADEO.PRO
 Ветка develop-adeo как development
+Публичный репозиторий, все приватные настроки через _custom.php, 
+включаемый в osticket-config.php
 
 osTicket
 ========
