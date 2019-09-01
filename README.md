@@ -1,3 +1,6 @@
+Форк osTicket для ADEO.PRO
+Ветка develop-adeo как development
+
 osTicket
 ========
 <a href="https://osticket.com"><img height="80px" width="80px" src="images/favicon.png"
